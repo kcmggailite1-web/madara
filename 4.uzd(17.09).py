@@ -1,0 +1,5 @@
+teksts = input("iavdi savu tekstu: ")
+list = teksts.split()
+print(list)
+list.sort()
+print(list)
